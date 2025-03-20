@@ -24,7 +24,7 @@ Audio(output["audio"], rate=output['sampling_rate'])
 from gtts import gTTS
 
 
-**Speech to Text**
+**Text To Speech with Added Accent**
 
 from gtts import gTTS
 !pip install gTTS
